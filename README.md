@@ -19,7 +19,7 @@ Este proyecto es un **Conversor de Monedas** desarrollado en **Java** utilizando
 1. **Clonar el repositorio**:
 
 
-   git clone https://github.com/Gabriele167/conversor-de-monedas.git
+   git clone https://github.com/Gabriele167/Conversor-de-Moneda.git
 
 2. **Abrir el proyecto en IntelliJ IDEA:**
   - Abre IntelliJ IDEA.
